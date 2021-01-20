@@ -1,0 +1,14 @@
+#Heading {
+    background-color: grey;
+    color: aliceblue;
+    position: sticky;
+    
+    
+    
+    
+}
+.camel {
+    /* margin-right: 3%; */
+    display: flex;
+    justify-content: space-around;
+}
